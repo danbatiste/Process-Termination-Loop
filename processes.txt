@@ -1,0 +1,17 @@
+# Do not remove the following lines
+# Only change their values
+Delay (in seconds): 1
+
+# Enter list of processes to kill below:
+# This will kill processes that contain the terms.
+# Example: 's' will kill svchost, discord, etc. because they contain 's'
+Discord
+GameBar
+Searchui.exe
+OneDrive.exe
+OfficeClickToRun.exe
+Video.UI.exe
+jusched.exe
+AdobeUpdateService.exe
+SMMonitor.exe
+jucheck.exe
