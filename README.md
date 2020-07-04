@@ -1,10 +1,15 @@
 # Process Termination Loop
 Repeatedly kills user-designated processes. Created to terminate annoying programs that were borderline impossible to disable.
 
+
 INSTRUCTIONS:
+
 Install Python 3.2 or above
+
 Download end_process.py AND processes.txt
+
 Edit processes.txt to include the list of processes you want to terminate (you can find these in task manager by right-clicking on a task and then clicking "details")
+
 Edit processes.txt and set the delay to the number of seconds you want
 
 
