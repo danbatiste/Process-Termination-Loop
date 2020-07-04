@@ -2,7 +2,7 @@
 Repeatedly kills user-designated processes. Created to terminate annoying programs that were borderline impossible to disable.
 
 
-##INSTRUCTIONS:
+# Instructions:
 
 Install Python 3.2 or above
 
@@ -18,6 +18,6 @@ Run Powershell or CMD as administrator, cd to the folder containing `end_process
 
 
 
-## Notes
+# Notes
 
 You can edit `processes.txt` as the program runs and your changes will be used without having to restart the program.
